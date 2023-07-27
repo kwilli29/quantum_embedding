@@ -1,9 +1,0 @@
-dimod<0.9.0,>=0.8.0
-dwave_networkx<0.9.0,>=0.8.0
-dwave-system<0.9.0,>=0.8.0
-matplotlib<4.0.0,>=3.1.0
-minorminer<0.2.0,>=0.1.5
-networkx<3.0,>=2.0
-numpy<2.00,>=1.15.2
-pulp<2.0.0,>=1.6.0
-scipy<2.0.0,>=1.4.0
