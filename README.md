@@ -11,7 +11,7 @@ Embera
 	- contains a separate README.md based on the original download instructions from https://github.com/joseppinilla/embera/tree/main
 
 * embera-0.0.1a0-py3.10.egg
-	- with the way the repository originally ran, all files that were accessed when running an example script went through an embera-0.0.1a0-py3.10.egg.egg file that I converted into a folder to be able to change the 'backend code'
+	- with the way the repository originally ran, all files that were accessed when running an example script went through an embera-0.0.1a0-py3.10.egg file that I converted into a folder to be able to change the 'backend code'
 	- files in the original repository embera/embera do not get accessed when example code is run
 
 **Download Instructions:**
