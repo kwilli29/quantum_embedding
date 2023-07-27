@@ -17,11 +17,11 @@ Embera
 **Download Instructions:**
 *The best way to transfer this code to your machine to ensure you have all the proper Python packages will most likely be beginning from the original Embera repository at https://github.com/joseppinilla/embera/tree/main and following the README.md installation instructions there first*
 
-1. Follow the original README.md instructions by Pinilla at https://github.com/joseppinilla/embera/tree/main and replace/add files based on list below:
-	a. Replace the 'embera-0.0.1a0-py3.10.egg' file inside your ..../python3.10/site-packages/ folder and replace it with the "quantum_embedding/Embera/embera-0.0.1a0-py3.10.egg" folder in this GitHub
-	b. Replace the original embera/examples folder with the quantum_embedding/Embera/embera-main/examples folder in this GitHub
-	c. Replace the original embera/tests folder with the quantum_embedding/Embera/embera-main/tests folder in this GitHub
-	d. Replace the original embera/embera folder with the quantum_embedding/Embera/embera-main/embera folder in this GitHub
+1. Follow the original README.md instructions by Pinilla at https://github.com/joseppinilla/embera/tree/main 
+2. Replace the 'embera-0.0.1a0-py3.10.egg' file inside your ..../python3.10/site-packages/ folder and replace it with the "quantum_embedding/Embera/embera-0.0.1a0-py3.10.egg" folder in this GitHub
+3. Replace the original embera/examples folder with the quantum_embedding/Embera/embera-main/examples folder in this GitHub
+4. Replace the original embera/tests folder with the quantum_embedding/Embera/embera-main/tests folder in this GitHub
+5. Replace the original embera/embera folder with the quantum_embedding/Embera/embera-main/embera folder in this GitHub
 
 X
 -
