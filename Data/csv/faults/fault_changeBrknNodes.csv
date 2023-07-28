@@ -1,0 +1,211 @@
+Algorithm,Topology,Node Yield,Graph Type,Degree,Run #,Time (s),Qubits,Maxchain Size,Fail/No Fail
+Minorminer,Zephyr,1.00,Complete,60,0,37.405141,382,9,0.0
+Minorminer,Zephyr,1.00,Complete,60,1,47.587974,380,9,0.0
+Minorminer,Zephyr,1.00,Complete,60,2,63.40607799999998,387,9,0.0
+Minorminer,Zephyr,1.00,Complete,60,3,77.56018899999998,359,8,0.0
+Minorminer,Zephyr,1.00,Complete,60,4,16.135958999999957,402,10,0.0
+Minorminer,Zephyr,1.00,Complete,60,5,51.08310300000005,381,9,0.0
+Minorminer,Zephyr,1.00,Complete,60,6,28.355080000000044,398,10,0.0
+Minorminer,Zephyr,1.00,Complete,60,7,32.488190999999915,421,10,0.0
+Minorminer,Zephyr,1.00,Complete,60,8,39.83163999999988,401,10,0.0
+Minorminer,Zephyr,1.00,Complete,60,9,15.069345999999996,407,11,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,0,74.741074,384,9,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,1,58.366105000000005,395,9,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,2,78.92314400000004,343,8,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,3,63.89423399999998,397,9,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,4,38.356318999999985,399,10,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,5,35.75502600000004,396,10,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,6,34.875403000000006,381,9,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,7,87.96695599999998,369,8,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,8,62.15255500000012,386,10,0.0
+Layout Aware [Migration],Zephyr,1.00,Complete,60,9,43.829479999999876,362,8,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,0,58.25170800000001,368,9,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,1,31.810584000000006,388,10,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,2,38.65128199999998,357,9,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,3,98.49727500000006,380,9,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,4,37.299124000000006,390,9,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,5,112.57196399999998,356,8,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,6,70.25964500000009,370,9,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,7,135.64651400000002,350,8,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,8,24.29103199999986,394,10,0.0
+Layout Aware [No Migration],Zephyr,1.00,Complete,60,9,74.87114100000008,365,8,0.0
+Minorminer,Zephyr,0.90,Complete,60,0,31.377418999999918,484,13,0.0
+Minorminer,Zephyr,0.90,Complete,60,1,87.37788300000011,462,11,0.0
+Minorminer,Zephyr,0.90,Complete,60,2,79.5014900000001,427,10,0.0
+Minorminer,Zephyr,0.90,Complete,60,3,41.69088899999997,444,11,0.0
+Minorminer,Zephyr,0.90,Complete,60,4,77.35083699999996,487,12,0.0
+Minorminer,Zephyr,0.90,Complete,60,5,42.07622999999967,470,11,0.0
+Minorminer,Zephyr,0.90,Complete,60,6,43.96831400000019,462,12,0.0
+Minorminer,Zephyr,0.90,Complete,60,7,139.9580689999998,444,10,0.0
+Minorminer,Zephyr,0.90,Complete,60,8,117.6409120000003,443,10,0.0
+Minorminer,Zephyr,0.90,Complete,60,9,55.96286599999985,422,11,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,0,79.44115499999998,448,11,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,1,56.58029099999999,431,10,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,2,58.25904599999967,448,11,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,3,44.09155299999975,439,11,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,4,59.26324900000009,464,12,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,5,66.9509850000004,480,12,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,6,54.782296000000315,439,11,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,7,41.776314000000184,533,13,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,8,44.26393099999996,543,14,0.0
+Layout Aware [Migration],Zephyr,0.90,Complete,60,9,95.7396490000001,455,11,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,0,94.09634300000016,413,10,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,1,41.52442099999985,436,11,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,2,24.87641900000017,509,13,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,3,71.56199700000025,441,11,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,4,27.664107000000058,542,13,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,5,85.89452900000015,443,11,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,6,32.33506299999999,469,12,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,7,33.83516300000019,513,13,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,8,99.73092200000019,444,11,0.0
+Layout Aware [No Migration],Zephyr,0.90,Complete,60,9,86.48318400000016,435,10,0.0
+Minorminer,Zephyr,0.80,Complete,60,0,59.8466540000004,575,14,0.0
+Minorminer,Zephyr,0.80,Complete,60,1,133.03722900000002,561,13,0.0
+Minorminer,Zephyr,0.80,Complete,60,2,68.45955700000013,644,16,0.0
+Minorminer,Zephyr,0.80,Complete,60,3,53.46984100000009,567,14,0.0
+Minorminer,Zephyr,0.80,Complete,60,4,71.91189599999962,598,15,0.0
+Minorminer,Zephyr,0.80,Complete,60,5,69.36564699999963,540,14,0.0
+Minorminer,Zephyr,0.80,Complete,60,6,58.43115800000032,625,15,0.0
+Minorminer,Zephyr,0.80,Complete,60,7,58.38579699999991,616,15,0.0
+Minorminer,Zephyr,0.80,Complete,60,8,102.20180100000016,539,14,0.0
+Minorminer,Zephyr,0.80,Complete,60,9,96.75431200000003,544,13,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,0,77.15826600000037,560,13,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,1,147.59216399999968,592,14,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,2,80.3040090000004,639,17,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,3,76.66213299999981,502,12,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,4,57.98101100000076,667,17,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,5,63.18591600000036,533,13,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,6,67.57662700000037,636,15,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,7,39.74782099999993,599,15,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,8,49.84594599999946,593,16,0.0
+Layout Aware [Migration],Zephyr,0.80,Complete,60,9,67.70145500000035,593,14,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,0,92.43560300000036,621,15,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,1,65.5103709999994,611,16,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,2,59.751946000000316,576,14,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,3,104.05698200000006,552,14,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,4,45.8370730000006,588,15,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,5,90.82255600000008,587,15,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,6,67.46566800000073,562,13,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,7,99.15910200000053,553,14,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,8,91.52650499999982,521,13,0.0
+Layout Aware [No Migration],Zephyr,0.80,Complete,60,9,54.61744599999929,618,17,0.0
+Minorminer,Zephyr,0.70,Complete,60,0,165.8130629999996,781,21,0.0
+Minorminer,Zephyr,0.70,Complete,60,1,59.02544300000045,909,24,0.0
+Minorminer,Zephyr,0.70,Complete,60,2,106.37098200000037,726,18,0.0
+Minorminer,Zephyr,0.70,Complete,60,3,121.64977399999952,785,21,0.0
+Minorminer,Zephyr,0.70,Complete,60,4,91.39805299999898,778,19,0.0
+Minorminer,Zephyr,0.70,Complete,60,5,132.60860299999877,795,19,0.0
+Minorminer,Zephyr,0.70,Complete,60,6,138.809068999999,709,17,0.0
+Minorminer,Zephyr,0.70,Complete,60,7,65.77036500000031,797,19,0.0
+Minorminer,Zephyr,0.70,Complete,60,8,81.36000000000058,765,20,0.0
+Minorminer,Zephyr,0.70,Complete,60,9,173.96217799999977,750,18,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,0,94.44394099999954,932,24,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,1,65.51608900000065,1026,27,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,2,243.79327899999953,761,17,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,3,146.19402199999968,718,17,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,4,152.8392160000003,699,17,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,5,118.00223100000039,704,16,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,6,164.7582820000007,763,19,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,7,169.64214100000027,822,18,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,8,65.1548729999995,890,23,0.0
+Layout Aware [Migration],Zephyr,0.70,Complete,60,9,137.495046,729,19,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,0,155.76211499999954,733,18,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,1,100.78729200000089,792,21,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,2,109.11255800000072,751,18,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,3,121.14236100000016,746,19,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,4,101.45344800000021,821,19,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,5,90.00749200000064,742,19,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,6,164.84732199999962,801,19,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,7,164.00811000000067,820,19,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,8,133.03145600000062,827,20,0.0
+Layout Aware [No Migration],Zephyr,0.70,Complete,60,9,102.24060800000007,799,20,0.0
+Minorminer,Zephyr,0.60,Complete,60,0,90.42365099999915,1258,31,0.0
+Minorminer,Zephyr,0.60,Complete,60,1,117.58066800000051,1305,33,0.0
+Minorminer,Zephyr,0.60,Complete,60,2,203.21572099999867,932,22,0.0
+Minorminer,Zephyr,0.60,Complete,60,3,59.217626000001474,1265,31,0.0
+Minorminer,Zephyr,0.60,Complete,60,4,188.42147000000114,1158,27,0.0
+Minorminer,Zephyr,0.60,Complete,60,5,131.60741899999994,1088,27,0.0
+Minorminer,Zephyr,0.60,Complete,60,6,143.76625799999965,1280,32,0.0
+Minorminer,Zephyr,0.60,Complete,60,7,131.76954000000114,1271,31,0.0
+Minorminer,Zephyr,0.60,Complete,60,8,137.52127899999869,1028,24,0.0
+Minorminer,Zephyr,0.60,Complete,60,9,153.51330699999744,1274,31,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,0,120.56462000000101,1017,24,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,1,135.34132300000056,1257,31,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,2,210.13472700000057,1140,26,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,3,127.92174499999965,1230,31,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,4,85.93856900000173,1494,35,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,5,141.50012099999913,956,24,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,6,79.05382199999985,1353,32,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,7,175.1672409999992,1115,28,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,8,275.4543680000006,1081,25,0.0
+Layout Aware [Migration],Zephyr,0.60,Complete,60,9,181.15426000000298,1276,32,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,0,93.33742400000119,1372,33,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,1,112.98512199999823,1173,30,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,2,116.44269900000108,1279,32,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,3,108.42231999999967,1289,32,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,4,151.64747700000044,1332,31,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,5,152.18997500000114,1026,26,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,6,135.5007229999992,1221,27,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,7,152.50163900000007,1238,29,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,8,151.31747099999848,1137,27,0.0
+Layout Aware [No Migration],Zephyr,0.60,Complete,60,9,121.62420399999974,1260,32,0.0
+Minorminer,Zephyr,0.75,Complete,60,0,99.24652799999967,765,19,0.0
+Minorminer,Zephyr,0.75,Complete,60,1,154.06958300000042,593,14,0.0
+Minorminer,Zephyr,0.75,Complete,60,2,91.9232519999996,673,17,0.0
+Minorminer,Zephyr,0.75,Complete,60,3,97.69659300000058,789,20,0.0
+Minorminer,Zephyr,0.75,Complete,60,4,107.83815200000026,726,17,0.0
+Minorminer,Zephyr,0.75,Complete,60,5,79.04305900000054,752,19,0.0
+Minorminer,Zephyr,0.75,Complete,60,6,68.69857100000081,699,17,0.0
+Minorminer,Zephyr,0.75,Complete,60,7,89.1530159999993,661,16,0.0
+Minorminer,Zephyr,0.75,Complete,60,8,128.03796299999885,645,15,0.0
+Minorminer,Zephyr,0.75,Complete,60,9,113.95077700000002,662,16,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,0,98.88182099999995,573,14,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,1,89.49828400000024,593,15,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,2,133.79490299999998,621,15,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,3,124.29139599999962,645,15,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,4,54.51266300000043,814,21,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,5,135.33024399999977,681,16,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,6,109.50229500000023,638,16,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,7,99.15266599999995,578,14,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,8,97.83497999999963,653,17,0.0
+Layout Aware [Migration],Zephyr,0.75,Complete,60,9,129.2297920000001,639,15,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,0,109.24284499999976,746,18,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,1,111.20617099999981,596,16,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,2,130.07658300000003,670,15,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,3,72.65137200000026,700,18,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,4,78.704882,660,16,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,5,87.93032500000027,671,16,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,6,155.87464900000032,621,15,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,7,54.398269999999684,755,20,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,8,114.02870500000063,613,15,0.0
+Layout Aware [No Migration],Zephyr,0.75,Complete,60,9,151.08493799999997,597,15,0.0
+Minorminer,Zephyr,0.50,Complete,60,0,345.8603669999975,0.0,0.0,1
+Minorminer,Zephyr,0.50,Complete,60,1,279.1267259999986,0.0,0.0,1
+Minorminer,Zephyr,0.50,Complete,60,2,323.9755539999969,0.0,0.0,1
+Minorminer,Zephyr,0.50,Complete,60,3,356.3850249999996,0.0,0.0,1
+Minorminer,Zephyr,0.50,Complete,60,4,162.36171299999842,1993,49,0.0
+Minorminer,Zephyr,0.50,Complete,60,5,405.24646500000017,0.0,0.0,1
+Minorminer,Zephyr,0.50,Complete,60,6,337.06634100000156,0.0,0.0,1
+Minorminer,Zephyr,0.50,Complete,60,7,410.63079599999764,0.0,0.0,1
+Minorminer,Zephyr,0.50,Complete,60,8,334.76496899999984,0.0,0.0,1
+Minorminer,Zephyr,0.50,Complete,60,9,403.2044249999999,0.0,0.0,1
+Layout Aware [Migration],Zephyr,0.50,Complete,60,0,409.54832100000203,0.0,0.0,1
+Layout Aware [Migration],Zephyr,0.50,Complete,60,1,413.4599070000004,0.0,0.0,1
+Layout Aware [Migration],Zephyr,0.50,Complete,60,2,514.7057630000018,2032,48,0.0
+Layout Aware [Migration],Zephyr,0.50,Complete,60,3,376.63387299999886,0.0,0.0,1
+Layout Aware [Migration],Zephyr,0.50,Complete,60,4,432.02874200000224,0.0,0.0,1
+Layout Aware [Migration],Zephyr,0.50,Complete,60,5,419.96362600000066,0.0,0.0,1
+Layout Aware [Migration],Zephyr,0.50,Complete,60,6,406.5735740000018,0.0,0.0,1
+Layout Aware [Migration],Zephyr,0.50,Complete,60,7,320.0347870000005,2250,54,0.0
+Layout Aware [Migration],Zephyr,0.50,Complete,60,8,412.04454199999964,0.0,0.0,1
+Layout Aware [Migration],Zephyr,0.50,Complete,60,9,322.824611,2380,56,0.0
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,0,447.30690799999866,0.0,0.0,1
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,1,483.6986570000008,0.0,0.0,1
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,2,465.88191200000074,0.0,0.0,1
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,3,399.90112699999736,0.0,0.0,1
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,4,493.7767129999993,0.0,0.0,1
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,5,411.8005469999989,0.0,0.0,1
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,6,486.17173999999795,0.0,0.0,1
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,7,482.8052859999989,0.0,0.0,1
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,8,423.92625800000314,0.0,0.0,1
+Layout Aware [No Migration],Zephyr,0.50,Complete,60,9,345.56908399999884,1842,41,0.0
