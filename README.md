@@ -23,7 +23,18 @@ Embera
 4. Replace the original embera/tests folder with the quantum_embedding/Embera/embera-main/tests folder in this GitHub
 5. Replace the original embera/embera folder with the quantum_embedding/Embera/embera-main/embera folder in this GitHub
 
-X
--
+Jupyter
+------
+This folder contains several Jupyter Notebook/Lab files that perform different functions. Run these files with the OceanSDK packages on Jupyter Lab and they should run properly.
+
+Data
+------
+**Raw**
+Raw data that is unformatted but is the original files the results were outputted to.
+**csv**
+The formatted version of the raw data.
+**images**
+Images generated from the 'graphs.ipynb' file and the 'ultimateGraphs.ipynb' file.
+
 
 
