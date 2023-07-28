@@ -38,7 +38,7 @@ fail_nmg = 0
 
 for w in range(3,n,1):
 
-    Sg = nx.complete_graph(w)
+    Sg = nx.complete_graph(w) # networkx input graph here, w=iterating # of vertices
     S_edgelist = list(Sg.edges())
 
     #convert complete graph nodes to coordinates 
