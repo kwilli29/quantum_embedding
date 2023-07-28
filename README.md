@@ -30,10 +30,15 @@ This folder contains several Jupyter Notebook/Lab files that perform different f
 Data
 ------
 **Raw**
+
 Raw data that is unformatted but is the original files the results were outputted to.
+
 **csv**
+
 The formatted version of the raw data.
+
 **images**
+
 Images generated from the 'graphs.ipynb' file and the 'ultimateGraphs.ipynb' file.
 
 
